@@ -14,9 +14,9 @@ Clone this repository to a directory you want on your server.
 
 Next edit the docker-compose.yml file to your liking 
 
-    -1 environment variables (DOMAIN & DOMAIN@EMAIL)
-    -2 change root password of Maria-DB
-    -3 change persistant data volumes for the containers
+    - environment variables (DOMAIN & DOMAIN@EMAIL)
+    - change root password of Maria-DB
+    - change persistant data volumes for the containers
   
 Before you start up the containers for this to work you need to create a seperate network.
 
@@ -40,4 +40,4 @@ To update all of your containers with the latest updates use the commands below:
     -$ docker-compose pull (pulls the new updated images)
     -$ docker-compose up -d (starts your containers with the new updated images)
   
-    --if your nextcloud apps break after an update just re-enable them-- 
+    - if your nextcloud apps break after an update just re-enable them
