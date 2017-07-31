@@ -1,6 +1,15 @@
 # Dockerized-SSL-NextCloud-with-MariaDB
 A NextCloud server with a MariaDB database behind a Nginx reverse proxy with LetsEncrypt for SSL encryption
 
+I have made a video on how to set this up and get this running check it out below:
+
+    (youtube)
+
+I was able to put this all together from the help of a few githubs below:
+    https://github.com/nextcloud/docker
+    https://github.com/jwilder/nginx-proxy
+    https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
+
 Clone this repository to a directory you want on your server.
 
 Next edit the docker-compose.yml file to your liking 
