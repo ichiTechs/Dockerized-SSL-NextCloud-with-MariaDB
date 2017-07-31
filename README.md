@@ -3,7 +3,7 @@ A NextCloud server with a MariaDB database behind a Nginx reverse proxy with Let
 
 I have made a video on how to set this up and get this running check it out below:
 
-    (youtube)
+   - (youtube)
 
 I was able to put this all together from the help of a few githubs below:
    - https://github.com/nextcloud/docker
