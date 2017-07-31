@@ -6,9 +6,9 @@ I have made a video on how to set this up and get this running check it out belo
     (youtube)
 
 I was able to put this all together from the help of a few githubs below:
-    https://github.com/nextcloud/docker
-    https://github.com/jwilder/nginx-proxy
-    https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
+   - https://github.com/nextcloud/docker
+   - https://github.com/jwilder/nginx-proxy
+   - https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
 
 Clone this repository to a directory you want on your server.
 
