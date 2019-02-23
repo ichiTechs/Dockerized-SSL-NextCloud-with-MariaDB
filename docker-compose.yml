@@ -57,7 +57,7 @@ services:
     restart: always
 
   app:
-    image: nextcloud:fpm
+    image: nextcloud:stable-fpm
     container_name: nextcloud_fpm
     links:
       - db
